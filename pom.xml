@@ -25,6 +25,8 @@
 
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
+		<sonar.jacoco.itReportPath>${project.basedir}/../target/jacoco-it.exec</sonar.jacoco.itReportPath>
+                <sonar.groovy.binaries>target/classes</sonar.groovy.binaries>
 	</properties>
 
 	<dependencies>

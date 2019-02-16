@@ -94,8 +94,8 @@
 	    </repository>
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://localhost:8085/mithun/repository/flipkart-snapshot/</url>
+	      <name>Mavenweb-snapshot</name>
+	      <url>http://3.16.117.48:8081/repository/Mavenweb-snapshot/</url>
 	    </snapshotRepository>
 	</distributionManagement>
 	
